@@ -1,1 +1,4 @@
-# backend_python_exercises
+# Repository to host backend python exercises covering
+- Functions
+- OOP
+- Django

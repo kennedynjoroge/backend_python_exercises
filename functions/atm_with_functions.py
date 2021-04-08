@@ -1,4 +1,4 @@
-"""Objective: Code to host logic for simple ATM validation and menu display.
+"""Objective: Code to host logic for simple ATM menu display, validation and backoffice operations.
 Implementation Approach: Uses functions to modularize the code for simplicity, maintainability and reuse.using
 """
 
@@ -157,7 +157,7 @@ def main():
         customer_login()
     elif selected_action == 2:  # login
         customer_login()
-    elif selected_action == 3:  # login
+    elif selected_action == 3:  # help
         customer_help()
     else:
         print("You have selected an invalid option")
